@@ -563,10 +563,11 @@ input:-ms-input-placeholder {
 
 .carousel-caption {
 	padding-bottom: 30px;
-	top: 90px;
+     left: 1%;
+	/*top: 90px;*/
 }
 .carousel-caption p{
-	font-size:50px;
+	font-size:30px;
 	font-family: 'big_johnregular';
 	line-height: 60px;
 	color:#000;
